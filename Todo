@@ -1,0 +1,5 @@
+1> config the view , split into multi.
+2>after all the views complited, admin ,user[visitor] controller.
+3>admin,user models.
+4>create and rebuild the uploader.
+5>configure and link it up with routes.
