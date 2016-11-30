@@ -53,7 +53,8 @@ $route['register'] = 'user/register';
 $route['login'] = 'user/login';
 $route['logout'] = 'user/logout';
 $route['hello'] = 'user/hello';
-
+$route['upload'] ='upload/index'
+//$route['']
 $route['default_controller'] = 'User';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
