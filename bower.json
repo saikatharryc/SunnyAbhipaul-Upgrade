@@ -1,0 +1,25 @@
+{
+  "name": "sunnyabhipaul",
+  "homepage": "https://github.com/saikatharryc/SunnyAbhipaul-Upgrade",
+  "authors": [
+    "saikat chakrabortty"
+  ],
+  "description": "simple photograhy website dynamic",
+  "main": "",
+  "keywords": [
+    "photography",
+    "sunnyabhipaul",
+    "sunnyabhipaulphotography.in",
+    "portfolio",
+    "codeigniter"
+  ],
+  "license": "free",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
